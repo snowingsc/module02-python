@@ -11,6 +11,3 @@ elif BMI < 30.0:
 else:
   print("obese")
 
-unit = input("Enter unit: ")
-if unit == "F" or unit == "f":
-  print("I am here")
